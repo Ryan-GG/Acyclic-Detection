@@ -7,14 +7,12 @@ Example: <br>
 3 <br>
 0 1 <br>
 1 2 <br>
-2 0 <br> <br>
-
+2 0 <br> 
 False, since the graph is cyclical <br><br>
 
 Example 2: <br>
 3 <br>
 0 1 2 <br>
 1  <br>
-2 1 <br> <br>
-
+2 1 <br> 
 True, since the graph is ayclical <br>
